@@ -43,6 +43,9 @@ h4 {
   font-family: serif;
   margin-top: 20%;
   text-align: center;
+  animation-name: h4;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
 }
 
 h5 {
@@ -51,6 +54,9 @@ h5 {
   font-family: serif;
   margin-top: 20%;
   text-align: center;
+  animation-name: h5;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
 }
 
 h6 {
@@ -59,6 +65,9 @@ h6 {
   font-family: serif;
   margin-top: 20%;
   text-align: center;
+  animation-name: h6;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
 }
 
 p {
@@ -103,5 +112,41 @@ div {
   }
   100% {
     color: tomato;
+  }
+}
+
+@keyframes h4 {
+  0% {
+    color: aqua;
+  }
+  50% {
+    color: steelblue;
+  }
+  100% {
+    color: chocolate;
+  }
+}
+
+@keyframes h5 {
+  0% {
+    color: slategray;
+  }
+  50% {
+    color: orchid;
+  }
+  100% {
+    color: peru;
+  }
+}
+
+@keyframes h6 {
+  0% {
+    color: darkblue;
+  }
+  50% {
+    color: purple;
+  }
+  100% {
+    color: lightgreen;
   }
 }
