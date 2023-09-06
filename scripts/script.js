@@ -102,3 +102,15 @@
 // console.log(Math.abs(-8));
 // console.log(Math.abs(-9));
 // console.log(Math.abs(-10));
+
+// Math.min()
+// console.log(Math.min(1, 2, 3));
+// console.log(Math.min(3, 4, 5));
+// console.log(Math.min(6, 7, 8));
+// console.log(Math.min(9, 10, 11));
+// console.log(Math.min(11, 12, 13));
+// console.log(Math.min(14, 15, 16));
+// console.log(Math.min(17, 18, 19));
+// console.log(Math.min(20, 21, 22));
+// console.log(Math.min(23, 24, 25));
+// console.log(Math.min(26, 27, 28));
