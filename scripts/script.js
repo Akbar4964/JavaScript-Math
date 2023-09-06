@@ -68,13 +68,25 @@
 // console.log(Math.trunc(10.5));
 
 // Math.pow()
-console.log(Math.pow(1, 1));
-console.log(Math.pow(2, 2));
-console.log(Math.pow(3, 3));
-console.log(Math.pow(4, 4));
-console.log(Math.pow(5, 5));
-console.log(Math.pow(6, 6));
-console.log(Math.pow(7, 7));
-console.log(Math.pow(8, 8));
-console.log(Math.pow(9, 9));
-console.log(Math.pow(10, 10));
+// console.log(Math.pow(1, 1));
+// console.log(Math.pow(2, 2));
+// console.log(Math.pow(3, 3));
+// console.log(Math.pow(4, 4));
+// console.log(Math.pow(5, 5));
+// console.log(Math.pow(6, 6));
+// console.log(Math.pow(7, 7));
+// console.log(Math.pow(8, 8));
+// console.log(Math.pow(9, 9));
+// console.log(Math.pow(10, 10));
+
+// Math.sqrt()
+// console.log(Math.sqrt(10));
+// console.log(Math.sqrt(20));
+// console.log(Math.sqrt(30));
+// console.log(Math.sqrt(40));
+// console.log(Math.sqrt(50));
+// console.log(Math.sqrt(60));
+// console.log(Math.sqrt(70));
+// console.log(Math.sqrt(80));
+// console.log(Math.sqrt(90));
+// console.log(Math.sqrt(100));
