@@ -60,3 +60,15 @@ div {
   display: flex;
   justify-content: center;
 }
+
+@keyframes h1 {
+  0% {
+    color: violet;
+  }
+  50% {
+    color: teal;
+  }
+  100% {
+    color: rebeccapurple;
+  }
+}
