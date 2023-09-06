@@ -3,3 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: 700;
+  font-family: serif;
+  margin-top: 20%;
+  text-align: center;
+}
