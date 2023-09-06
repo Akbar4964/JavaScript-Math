@@ -11,3 +11,8 @@ h1 {
   margin-top: 20%;
   text-align: center;
 }
+
+div {
+  display: flex;
+  justify-content: center;
+}
