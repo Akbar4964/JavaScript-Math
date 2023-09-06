@@ -90,3 +90,15 @@
 // console.log(Math.sqrt(80));
 // console.log(Math.sqrt(90));
 // console.log(Math.sqrt(100));
+
+// Math.abs()
+// console.log(Math.abs(-1));
+// console.log(Math.abs(-2));
+// console.log(Math.abs(-3));
+// console.log(Math.abs(-4));
+// console.log(Math.abs(-5));
+// console.log(Math.abs(-6));
+// console.log(Math.abs(-7));
+// console.log(Math.abs(-8));
+// console.log(Math.abs(-9));
+// console.log(Math.abs(-10));
