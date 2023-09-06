@@ -21,6 +21,9 @@ h2 {
   font-family: serif;
   margin-top: 20%;
   text-align: center;
+  animation-name: h2;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
 }
 
 h3 {
