@@ -75,3 +75,15 @@ div {
     color: rebeccapurple;
   }
 }
+
+@keyframes h2 {
+  0% {
+    color: antiquewhite;
+  }
+  50% {
+    color: turquoise;
+  }
+  100% {
+    color: yellow;
+  }
+}
