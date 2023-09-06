@@ -114,3 +114,15 @@
 // console.log(Math.min(20, 21, 22));
 // console.log(Math.min(23, 24, 25));
 // console.log(Math.min(26, 27, 28));
+
+// Math.max()
+// console.log(Math.max(1, 2, 3));
+// console.log(Math.max(3, 4, 5));
+// console.log(Math.max(6, 7, 8));
+// console.log(Math.max(9, 10, 11));
+// console.log(Math.max(11, 12, 13));
+// console.log(Math.max(14, 15, 16));
+// console.log(Math.max(17, 18, 19));
+// console.log(Math.max(20, 21, 22));
+// console.log(Math.max(23, 24, 25));
+// console.log(Math.max(26, 27, 28));
