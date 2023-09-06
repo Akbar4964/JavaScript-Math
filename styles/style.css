@@ -90,3 +90,15 @@ div {
     color: yellow;
   }
 }
+
+@keyframes h3 {
+  0% {
+    color: wheat;
+  }
+  50% {
+    color: thistle;
+  }
+  100% {
+    color: tomato;
+  }
+}
