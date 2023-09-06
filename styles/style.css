@@ -36,6 +36,22 @@ h4 {
   text-align: center;
 }
 
+h5 {
+  font-size: 70px;
+  font-weight: 700;
+  font-family: serif;
+  margin-top: 20%;
+  text-align: center;
+}
+
+h6 {
+  font-size: 70px;
+  font-weight: 700;
+  font-family: serif;
+  margin-top: 20%;
+  text-align: center;
+}
+
 div {
   display: flex;
   justify-content: center;
