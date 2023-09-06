@@ -56,13 +56,25 @@
 // console.log(Math.floor(10.9));
 
 // Math.trunc()
-console.log(Math.trunc(1.5));
-console.log(Math.trunc(2.5));
-console.log(Math.trunc(3.5));
-console.log(Math.trunc(4.5));
-console.log(Math.trunc(5.5));
-console.log(Math.trunc(6.5));
-console.log(Math.trunc(7.5));
-console.log(Math.trunc(8.5));
-console.log(Math.trunc(9.5));
-console.log(Math.trunc(10.5));
+// console.log(Math.trunc(1.5));
+// console.log(Math.trunc(2.5));
+// console.log(Math.trunc(3.5));
+// console.log(Math.trunc(4.5));
+// console.log(Math.trunc(5.5));
+// console.log(Math.trunc(6.5));
+// console.log(Math.trunc(7.5));
+// console.log(Math.trunc(8.5));
+// console.log(Math.trunc(9.5));
+// console.log(Math.trunc(10.5));
+
+// Math.pow()
+console.log(Math.pow(1, 1));
+console.log(Math.pow(2, 2));
+console.log(Math.pow(3, 3));
+console.log(Math.pow(4, 4));
+console.log(Math.pow(5, 5));
+console.log(Math.pow(6, 6));
+console.log(Math.pow(7, 7));
+console.log(Math.pow(8, 8));
+console.log(Math.pow(9, 9));
+console.log(Math.pow(10, 10));
