@@ -44,13 +44,25 @@
 // console.log(Math.ceil(9.1));
 
 // Math.floor()
-console.log(Math.floor(1.9));
-console.log(Math.floor(2.9));
-console.log(Math.floor(3.9));
-console.log(Math.floor(4.9));
-console.log(Math.floor(5.9));
-console.log(Math.floor(6.9));
-console.log(Math.floor(7.9));
-console.log(Math.floor(8.9));
-console.log(Math.floor(9.9));
-console.log(Math.floor(10.9));
+// console.log(Math.floor(1.9));
+// console.log(Math.floor(2.9));
+// console.log(Math.floor(3.9));
+// console.log(Math.floor(4.9));
+// console.log(Math.floor(5.9));
+// console.log(Math.floor(6.9));
+// console.log(Math.floor(7.9));
+// console.log(Math.floor(8.9));
+// console.log(Math.floor(9.9));
+// console.log(Math.floor(10.9));
+
+// Math.trunc()
+console.log(Math.trunc(1.5));
+console.log(Math.trunc(2.5));
+console.log(Math.trunc(3.5));
+console.log(Math.trunc(4.5));
+console.log(Math.trunc(5.5));
+console.log(Math.trunc(6.5));
+console.log(Math.trunc(7.5));
+console.log(Math.trunc(8.5));
+console.log(Math.trunc(9.5));
+console.log(Math.trunc(10.5));
