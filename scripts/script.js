@@ -21,3 +21,12 @@ console.log(Math.round(6.6));
 
 console.log(Math.round(7.3));
 console.log(Math.round(7.7));
+
+console.log(Math.round(8.3));
+console.log(Math.round(8.8));
+
+console.log(Math.round(9.4));
+console.log(Math.round(9.9));
+
+console.log(Math.round(10.1));
+console.log(Math.round(10.5));
