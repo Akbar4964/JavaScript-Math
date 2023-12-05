@@ -129,13 +129,22 @@
 
 // Math.random()
 // console.log(Math.trunc(Math.random() * 10));
+
 // console.log(Math.trunc(Math.random() * 20));
+
 // console.log(Math.trunc(Math.random() * 30));
+
 // console.log(Math.trunc(Math.random() * 40));
+
 // console.log(Math.trunc(Math.random() * 50));
+
 // console.log(Math.trunc(Math.random() * 60));
+
 // console.log(Math.trunc(Math.random() * 70));
+
 // console.log(Math.trunc(Math.random() * 80));
+
 // console.log(Math.trunc(Math.random() * 90));
+
 // console.log(Math.trunc(Math.random() * 100));
 
