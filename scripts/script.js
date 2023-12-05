@@ -131,7 +131,6 @@
 // console.log(Math.trunc(Math.random() * 10));
 
 // console.log(Math.trunc(Math.random() * 20));
-
 // console.log(Math.trunc(Math.random() * 30));
 // console.log(Math.trunc(Math.random() * 40));
 // console.log(Math.trunc(Math.random() * 50));
