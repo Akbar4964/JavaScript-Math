@@ -141,7 +141,6 @@
 // console.log(Math.trunc(Math.random() * 60));
 
 // console.log(Math.trunc(Math.random() * 70));
-
 // console.log(Math.trunc(Math.random() * 80));
 // console.log(Math.trunc(Math.random() * 90));
 // console.log(Math.trunc(Math.random() * 100));
