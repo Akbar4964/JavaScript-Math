@@ -105,12 +105,14 @@
 
 // Math.min()
 // console.log(Math.min(1, 2, 3));
-// console.log(Math.min(3, 4, 5));
+// console.log(Math.min(3, 4, 5))
+
 // console.log(Math.min(6, 7, 8));
 // console.log(Math.min(9, 10, 11));
 // console.log(Math.min(11, 12, 13));
 // console.log(Math.min(14, 15, 16));
 // console.log(Math.min(17, 18, 19));
+
 // console.log(Math.min(20, 21, 22));
 // console.log(Math.min(23, 24, 25));
 // console.log(Math.min(26, 27, 28));
@@ -123,19 +125,21 @@
 // console.log(Math.max(11, 12, 13));
 // console.log(Math.max(14, 15, 16));
 // console.log(Math.max(17, 18, 19));
+
 // console.log(Math.max(20, 21, 22));
 // console.log(Math.max(23, 24, 25));
 // console.log(Math.max(26, 27, 28));
 
 // Math.random()
+
 // console.log(Math.trunc(Math.random() * 10));
 // console.log(Math.trunc(Math.random() * 20));
 // console.log(Math.trunc(Math.random() * 30));
 // console.log(Math.trunc(Math.random() * 40));
+
 // console.log(Math.trunc(Math.random() * 50));
 // console.log(Math.trunc(Math.random() * 60));
 // console.log(Math.trunc(Math.random() * 70));
 // console.log(Math.trunc(Math.random() * 80));
 // console.log(Math.trunc(Math.random() * 90));
-
 // console.log(Math.trunc(Math.random() * 100));
