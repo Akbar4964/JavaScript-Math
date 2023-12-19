@@ -131,7 +131,6 @@
 // console.log(Math.max(26, 27, 28));
 
 // Math.random()
-
 // console.log(Math.trunc(Math.random() * 10));
 // console.log(Math.trunc(Math.random() * 20));
 // console.log(Math.trunc(Math.random() * 30));
